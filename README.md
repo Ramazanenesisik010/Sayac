@@ -1,0 +1,2 @@
+# Sayac
+Basit Bit Zamanlayıcı.
